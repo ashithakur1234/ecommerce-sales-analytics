@@ -62,10 +62,6 @@ ecommerce-sales-analytics/
 
 │   ├── 02\_Data\_Cleaning.ipynb        → Data cleaning \& preprocessing
 
-│   ├── 03\_Exploratory\_Analysis.ipynb → EDA \& visualizations
-
-│   └── 05\_Insights\_Summary.ipynb     → Final business insights
-
 │
 
 ├── sql/
